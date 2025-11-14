@@ -1,8 +1,10 @@
 **Breast Cancer Malignancy Prediction Using Machine Learning:**
+
 This project develops and evaluates machine learning models to classify breast cancer tumors as malignant or benign using the scikit-learn breast cancer dataset. The analysis includes data preprocessing, exploratory data analysis (EDA), model training, evaluation metrics, and visualization of model performance.
 
 
 **Skills Demonstrated:**
+
 Python (pandas, numpy, scikit-learn, matplotlib)
 
 Supervised machine learning
@@ -24,6 +26,7 @@ End-to-end ML workflow
 
 
 **Models Used:**
+
 1. Logistic Regression
 
 Baseline interpretable classifier
@@ -45,6 +48,7 @@ Typically, higher predictive performance
 
 
 **Key Evaluation Metrics:**
+
 Accuracy
 Precision / Recall
 F1-score
